@@ -53,14 +53,6 @@ Il faut également renseigner les clefs API adéquats, ainsi que l'email et le m
   - LatentDirichletAllocation
 
 
-## Exécution
-
-Pour exécuter le script, utilisez la commande suivante :
-
-```bash
-python Projet_Final.py
-```
-
 ## Structure du Projet
 
 Le script est divisé en plusieurs sections :
