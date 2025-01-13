@@ -61,8 +61,3 @@ Ce projet est sous licence
 
 ---
 
-### Notes
-
-- Si des ajustements sont nécessaires ou si vous souhaitez ajouter des exemples d'utilisation, n'hésitez pas à demander.
-- Vous pouvez personnaliser ce fichier pour inclure des détails supplémentaires, tels que des graphiques ou des exemples de sorties.
-
