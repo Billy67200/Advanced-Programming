@@ -21,7 +21,7 @@ Ce projet vise à automatiser l'analyse et la structuration des vidéos YouTube 
 
 ## Contenu
 
-- **Projet\_Final.py** : le script Python principal du projet, contenant toutes les cellules du notebook original, y compris les commentaires et le code.
+- **Projet\_Final.ipynb** : le notebook du projet, contenant toutes les cellules y compris les commentaires et le code.
 
 ## Prérequis
 
