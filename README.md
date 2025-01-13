@@ -1,7 +1,8 @@
 # Advanced-Programming
-## Auteur
+## Auteurs
 
-VU Billy - ESSOH Lath\
+VU Billy
+ESSOH Lath\
 M2-DS2E
 
 # Projet Advanced Programming
