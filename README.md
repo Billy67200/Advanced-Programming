@@ -25,12 +25,26 @@ Avant d'exécuter le script, assurez-vous d'avoir installé les dépendances né
 ### Environnement Python
 
 - Python version 3.8 ou ultérieure
-- Modules Python requis :
+- Modules principaux Python requis :
   - numpy
   - pandas
   - matplotlib
   - nltk
   - scikit-learn
+  - youtube_comment_downloader
+  - googleapiclient.discovery
+  - selenium
+  - openai
+  - BeautifulSoup
+  - youtube_transcript_api
+  - assemblyai
+  - pytube
+  - re
+  - textblob
+  - TfidfVectorizer
+  - NMF
+  - CountVectorizer
+  - LatentDirichletAllocation
 
 
 ## Exécution
