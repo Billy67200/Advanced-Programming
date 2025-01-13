@@ -2,7 +2,7 @@
 ## Auteurs
 
 VU Billy
-ESSOH Lath\
+ESSOH Lath
 M2-DS2E
 
 # Projet Advanced Programming
