@@ -1,6 +1,10 @@
 # Advanced-Programming
+## Auteur
 
-# Projet Final
+VU Billy - ESSOH Lath\
+M2-DS2E
+
+# Projet Advanced Programming
 
 ## Description
 
@@ -63,10 +67,6 @@ Le script est divisé en plusieurs sections :
 2. **Analyse de Sentiment** : Analyse des commentaires pour identifier le ton général (positif, négatif, neutre).
 3. **Synthèse des Résultats** : Génération d'un résumé, d'une FAQ et d'un chapitrage consolidé.
 4. **Publication Automatique** : Publication des résultats sous forme de commentaire YouTube.
-
-## Auteur
-
-VU Billy - ESSOH Lath\
 
 
 ## Licence
