@@ -26,6 +26,7 @@ Ce projet vise à automatiser l'analyse et la structuration des vidéos YouTube 
 ## Prérequis
 
 Avant d'exécuter le script, assurez-vous d'avoir installé les dépendances nécessaires. Ces dépendances sont typiquement listées dans le notebook ou peuvent être déduites du code.
+Il faut également renseigner les clefs API adéquats, ainsi que l'email et le mot de passe du compte YouTube
 
 ### Environnement Python
 
